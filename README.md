@@ -1,3 +1,5 @@
+# This repository is currently under revision
+
 # DA-promoE-Mod2-Evaluacion-sprint2-CatalinaJaume
 
 ### Propietaria
